@@ -1,4 +1,4 @@
-**Math Quizzes Game 'Console app'**
+**Math Quizzes Game 'Console app'** (Functional Programming)
        
          -playing steps
 1. You first choose how many question you want to answer
