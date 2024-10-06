@@ -1,5 +1,5 @@
 **Math Quizzes Game 'Console app'**
-        playing steps
+        \nplaying steps
 1. You first choose how many question you want to answer
 2. You should the difficulty (easy, mid, hard, mix)
 3. You should the operator type (add, sub, mult, div, mix)
